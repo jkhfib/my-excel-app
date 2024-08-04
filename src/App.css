@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.cell-edited {
+  background-color: yellow !important;
+}
